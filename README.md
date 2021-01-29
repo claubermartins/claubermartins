@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hello! I'm Clauber Martins</h3>
+<h3 align="center"><img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />Hello! I'm Clauber Martins</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/clauber-martins-095889200/">Linkedin</a> •
   <a href="https://stackoverflow.com/users/15055898/clauber-martins?tab=profile">Stackoverflow</a> •
