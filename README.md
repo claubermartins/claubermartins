@@ -6,4 +6,4 @@
 </p>
 
 **Bio**  
-✨ I started as a Trainee in the industrial area, then I worked as an intern in the area of networks, and today I am an aspirant in Data Science and PHP Developer with publication of scientific article and use of the CRISP-DS method, as I saw in data science as a resource to op timize processes and solve problems. 
+✨ I started as a Trainee in the industrial area, then I worked as an intern in the area of networks, and today I am an aspirant in Data Science and PHP Developer with publication of scientific article and use of the CRISP-DS method, as I saw in data science as a resource to optimize processes and solve problems. 
