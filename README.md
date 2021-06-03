@@ -6,4 +6,4 @@
 </p>
 
 **Bio**  
-✨ I started as a Trainee in the industrial area, then I worked as an intern in the area of networks, and today I am an aspirant in Data Science and Back-End Developer with publication of scientific article and use of the CRISP-DS method, as I saw in data science as a resource to optimize processes and solve problems. 
+✨ I started as a Trainee in the industrial field and today I am an aspiring Data Science and Back-end Developer taking courses in the area, creating projects and publishing scientific articles. I embarked on data science because I saw it as a modern resource for optimizing processes and solving problems.
