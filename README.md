@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/clauber-martins-095889200/">Linkedin</a> •
   <a href="https://stackoverflow.com/users/15055898/clauber-martins?tab=profile">Stackoverflow</a> •
-  <a href="https://www.instagram.com/claubermartins__/">Instagram</a>
 </p>
 
 **Bio**  
