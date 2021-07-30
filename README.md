@@ -5,4 +5,6 @@
 </p>
 
 **Bio**  
-✨ I started as a Trainee in the industrial field and today I am an aspiring Data Science and Back-end Developer taking courses in the area, creating projects and publishing scientific articles. I embarked on data science because I saw it as a modern resource for optimizing processes and solving problems.
+✨ I am Clauber Martins, 28, brasilian and I looking for greats responsibilities and commitment. Started as a Trainee in the industrial field and today I am an aspiring Back-end Developer creating projects API's Rest using language Java and framework Spring Boot and micro services using Spring Cloud approach.
+I have knowledge with mySQL, Postgres database SQL and MongoDB noSQL and use Hibernate and JPA (Java Persistence API) as well. I am use Docker for containerization of my projects.
+In parallel, I study data science because I saw it as a modern resource for optimizing processes and solving problems.
