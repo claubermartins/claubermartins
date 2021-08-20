@@ -5,6 +5,6 @@
 </p>
 
 **Bio**  
-✨ I am Clauber Martins, 28, brasilian and I looking for greats responsibilities and commitment. Started as a Trainee in the industrial field and today I am an aspiring Back-end Developer creating projects API's Rest using language Java and framework Spring Boot and micro services using Spring Cloud approach.
-I have knowledge with mySQL, Postgres database SQL and MongoDB noSQL and use Hibernate and JPA (Java Persistence API) as well. I am use Docker for containerization of my projects.
-In parallel, I study data science because I saw it as a modern resource for optimizing processes and solving problems.
+✨ I'm Clauber Martins, 28, Brazilian and I look for great responsibilities and commitments. I started as a Trainee in the industrial area and today I am an aspiring Back-end Developer creating API's Rest projects using the Java language, Spring Boot framework and micro services using the Spring Cloud approach.
+I have knowledge with mySQL, Postgres SQL database and MongoDB noSQL and I use Hibernate and JPA (Java Persistence API) as well. I'm using Docker and kubernate to maintain the containers and run everything as a microservice for deployments on Google Cloud Platform.
+In parallel, I study Data Science because I saw it as a modern resource for optimizing processes and solving problems.
