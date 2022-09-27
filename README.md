@@ -38,7 +38,7 @@ At the same time, I study Data Science as a hobby applied in the financial marke
 **Some stats**
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=claubermartins&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=claubermartins&layout=compact&hide_border=true&&exclude_repo=claubermartins.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,m4,zephir,dart,vue,kotlin,awk,matlab,scilab,Jupyter Notebook,matlab,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=claubermartins&layout=compact&hide_border=true&&exclude_repo=claubermartins.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,m4,zephir,dart,vue,kotlin,awk,matlab,scilab,Jupyter+Notebook,matlab,php">
 </p>
 
 <p align="center"> 
