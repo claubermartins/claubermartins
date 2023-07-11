@@ -6,9 +6,7 @@
 
 **Bio**
 
-✨ I'm Clauber Martins, 29 years old, Brazilian and I'm looking for great responsibilities and commitments. I started as a Trainee in the industrial area and today I am a Software Developer creating API's Rest projects using the Java language, Spring Boot framework and micro services using the Spring Cloud approach and integrating with Angular.
-I have knowledge with mySQL, Postgres SQL database and MongoDB noSQL and I use Hibernate and JPA (Java Persistence API) as well. I'm using Docker and kubernate to maintain the containers and run everything as a microservice for deployments on Google Cloud Platform.
-At the same time, I study Data Science as a hobby applied in the financial market.
+✨ I'm Clauber Martins, a 30-year-old Brazilian, and I'm seeking significant responsibilities and commitments. I started as a Trainee in the industrial sector, and today I work as a Software Developer. I create REST API projects using the Java language with the Spring Boot framework. I also perform integration testing with the JUnit approach and integrate APIs with the Angular framework. I possess knowledge of SQL and NoSQL, and I utilize Object Relational Mapping (ORM) as well. Additionally, I use Docker and Kubernetes to maintain containers and deploy everything as microservices on the Google Cloud Platform. Concurrently, I study Data Science as a hobby, specifically applied in the financial market.
 
 ---
 
