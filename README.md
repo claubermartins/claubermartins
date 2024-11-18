@@ -6,27 +6,45 @@
 
 **Bio**
 
-✨ I'm Clauber Martins, a 30-year-old Brazilian seeking significant responsibilities and commitments. I began my career as a Trainee in the industrial sector and currently work as a Software Developer. I specialize in creating REST API projects using the Java language with the Spring Boot framework, and I also utilize Swagger for API documentation. Additionally, I have experience in integration testing with the JUnit approach and integrating APIs with the Angular framework. I have knowledge of both SQL and NoSQL databases and utilize Object Relational Mapping (ORM) as well. Moreover, I am proficient in using Docker and Kubernetes to maintain containers and deploy microservices on the Google Cloud Platform. Furthermore, I pursue Data Science as a hobby, focusing specifically on its application in the financial market.
+✨ I am a Brazilian software engineer, 31 years old, with solid experience in developing REST APIs using Java and Spring Boot, as well as skills in Swagger for API documentation. I have experience in integration testing with JUnit and in integrating APIs with the Angular framework. I am knowledgeable in both SQL and NoSQL databases, with the use of Object-Relational Mapping (ORM). Additionally, I am proficient in Docker for creating and maintaining containers, as well as in Kubernetes for container orchestration. I have worked with deploying APIs on the Google Cloud platform and, more recently, I have been deepening my knowledge of Amazon Web Services (AWS). My hobby in Data Science, especially its application in the financial market, complements my passion for exploring and analyzing datasets to identify patterns and generate valuable insights.
 
 ---
 
 **Technologies I know and have been working on**  
 
+Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+
+
+Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+Database:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+
+
+Cloud:
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-00A3FF?style=flat-square&logo=railway&logoColor=white)
+
+
+Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -35,11 +53,15 @@
 
 **Some stats**
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=claubermartins&show_icons=true&count_private=true&theme=default&hide_border=true&include_all_commits=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=claubermartins&layout=compact&hide_border=true&&exclude_repo=claubermartins.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,m4,zephir,dart,vue,kotlin,awk,matlab,scilab,Jupyter+Notebook,matlab,php,css,html">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claubermartins&layout=compact&hide_border=true&&exclude_repo=claubermartins.github.io&langs_count=10&hide=tex,apacheconf,batchfile,cmake,makefile,dockerfile,processing,m4,zephir,dart,vue,kotlin,awk,matlab,scilab,Jupyter+Notebook,matlab,php,css,html,python,scss&theme=dark">
 </p>
 
-<p align="center"> 
-  Visitor count<br>
+<p align="center">
+  <strong style="font-size: 24px; color: #4CAF50;">Visitors:</strong><br><br>
   <img src="https://profile-counter.glitch.me/claubermartins/count.svg" />
 </p>
+
+
+
+
+
